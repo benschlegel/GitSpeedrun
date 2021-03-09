@@ -21,13 +21,14 @@ Now you can push commits to the gitlab repository.
 ## **2) Cloning the gitlab project 🧠**
 
 2.1) Open IntelliJ
+
 2.2) Click `Get from VCS` ![image](https://user-images.githubusercontent.com/31989404/110538611-811e8980-8124-11eb-97ba-7d5c743a5527.png)
 
 3.3) Navigate back to your Gitlab project and press the blue `clone` button, then copy the `Clone with SSH` option ![image](https://user-images.githubusercontent.com/31989404/110539127-25083500-8125-11eb-9c99-ed2dc693f70b.png)
 
-5.3) Back in IntelliJ, paste it under the `URL` box and pick a location where you want to save the project
+3.4) Back in IntelliJ, paste it under the `URL` box and pick a location where you want to save the project
 
-7.4) When asked if you want to connect anyways, pick yes
+3.5) When asked if you want to connect anyways, pick yes
 
 Now you can open and work on the project.
 
